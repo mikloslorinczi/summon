@@ -1,2 +1,0 @@
-# summon
-Simple Go Fileserver
